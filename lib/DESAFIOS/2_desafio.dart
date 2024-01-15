@@ -6,7 +6,6 @@ void main() {
   stdout.write('ESCOLHA: ');
   var opcaoEscolhida = stdin.readLineSync();
   
-  
   if (opcaoEscolhida != null) {
     
     Random random = new Random();
